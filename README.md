@@ -8,7 +8,7 @@
 
 В результате тестирования выявлен следующий дефект:
 
-[Баг-репорт](https://github.com/imandrik/HomeWork_1.1./issues)
+[Баг-репорт](https://github.com/imandrik/HomeWork_1.1./issues/1)
 
 ## Описание процесса тестирования ##
 
